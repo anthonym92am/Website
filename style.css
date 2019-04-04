@@ -1,0 +1,120 @@
+/* website styles  */
+
+* {
+  font-size: 100%;
+  margin: 0;
+  line-height: 1;
+  box-sizing: border-box;
+}
+
+body {
+  color: Aqua;
+  background-image:url('images/code.jpeg');
+  font-size: 14px;
+}
+
+.title {
+  color: darkorange;
+  font-size: 60px;
+  text-shadow: 0 10px black;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.column {
+  width: 50%;
+  float: left;
+}
+
+.blink {
+  text-align: center;
+}
+
+/* .banner {
+  height: 350px;
+  background-image: url('images/tech.jpg');
+  background-size: contain;
+  background-position: center;
+} */
+
+
+h1 {
+  color: indianred;
+  font-size: 50px;
+  font-family: 'Anton', sans-serif;
+  text-decoration: underline;
+  text-align: center;
+  line-height: 2;
+}
+
+h2 {
+  color: indianred;
+  font-size: 45px;
+  font-family: 'Anton', sans-serif;
+  text-decoration: underline;
+}
+
+ol, ul {
+  color: darkorange;
+  font-size: 25px;
+  font-family: Helvetica;
+  line-height: 2;
+}
+
+li {
+  margin: 5px 0;
+}
+p {
+  color: darkorange;
+  font-size: 25px;
+  line-height: 0.5;
+  font-family: Helvetica;
+  margin: 15px 0;
+}
+
+header {
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align: center;
+  line-height: 3;
+  background-image:url('images/phone.png');
+  background-size: cover;
+  background-position: center;
+  background-position-y: 100%;
+}
+
+a {
+  color: darkorange;
+  font-family: Helvetica;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: blue;
+  font-weight: bold;
+}
+
+img {
+  height: 300px;
+  max-width: 100%;
+}
+footer {
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align: right;
+  text-shadow: 0 1px black;
+  background-image:url('images/phone.png');
+  background-size: cover;
+  background-position: top;
+}
+
+header,
+section,
+footer {
+  padding: 30px;
+}
