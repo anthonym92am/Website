@@ -43,7 +43,7 @@ body {
 
 
 h1 {
-  color: indianred;
+  color: limegreen;
   font-size: 50px;
   font-family: 'Anton', sans-serif;
   text-decoration: underline;
@@ -52,7 +52,7 @@ h1 {
 }
 
 h2 {
-  color: indianred;
+  color: skyblue;
   font-size: 45px;
   font-family: 'Anton', sans-serif;
   text-decoration: underline;
