@@ -52,7 +52,7 @@ h1 {
 }
 
 h2 {
-  color: skyblue;
+  color: limegreen;
   font-size: 45px;
   font-family: 'Anton', sans-serif;
   text-decoration: underline;
@@ -81,10 +81,9 @@ header {
   font-family: Helvetica;
   text-align: center;
   line-height: 3;
-  background-image:url('images/phone.png');
+  background-image:url('images/bg6.png');
   background-size: cover;
   background-position: center;
-  background-position-y: 100%;
 }
 
 a {
@@ -108,9 +107,9 @@ footer {
   font-family: Helvetica;
   text-align: right;
   text-shadow: 0 1px black;
-  background-image:url('images/phone.png');
+  background-image:url('images/bg6.png');
   background-size: cover;
-  background-position: top;
+  background-position: center;
 }
 
 header,
