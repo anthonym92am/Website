@@ -34,6 +34,10 @@ body {
   text-align: center;
 }
 
+.video {
+  text-align: center;
+}
+
 /* .banner {
   height: 350px;
   background-image: url('images/tech.jpg');
