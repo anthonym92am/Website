@@ -30,6 +30,10 @@ body {
   float: left;
 }
 
+.image {
+  text-align: center;
+}
+
 /* .banner {
   height: 350px;
   background-image: url('images/tech.jpg');
