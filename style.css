@@ -30,17 +30,12 @@ body {
   float: left;
 }
 
-.blink {
-  text-align: center;
-}
-
 /* .banner {
   height: 350px;
   background-image: url('images/tech.jpg');
   background-size: contain;
   background-position: center;
 } */
-
 
 h1 {
   color: limegreen;
